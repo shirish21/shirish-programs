@@ -1,4 +1,4 @@
-      /*take nothing and return noyhing*/
+      /*take nothing and return noyhing*/ 
 
 #include<stdio.h>
 #include<conio.h>
