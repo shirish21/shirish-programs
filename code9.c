@@ -1,3 +1,5 @@
+         /*takes nothing and return something*/
+
 #include<stdio.h>
  #include<conio.h>
  int add(void);
