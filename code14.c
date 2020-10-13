@@ -1,4 +1,4 @@
-                      /*swapping of two numbers using function*/
+                      /*swapping of two numbers using function*/ 
 
 #include<stdio.h>
 #include<conio.h>
