@@ -1,4 +1,4 @@
-              /*even odd program using enumerators*/
+              /*even odd program using enumerator*/
 
 #include<stdio.h>
 #include<conio.h>
