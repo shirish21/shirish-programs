@@ -27,3 +27,4 @@ int area(int B,int C)
 {
     return(B*C);
 }
+ 
